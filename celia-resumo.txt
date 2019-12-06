@@ -1,0 +1,5 @@
+lista pilha arvore(pre,em, pos) matriz
+
+pilha no final pra definir o tipo é vetor.length
+v[--topo]=info
+pop return v[topo--]

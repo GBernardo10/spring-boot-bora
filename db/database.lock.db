@@ -1,0 +1,6 @@
+#FileLock
+#Thu Dec 05 19:07:22 BRST 2019
+hostName=HSL206
+id=16ed7e3691b4dc051f2c6b4c5e32bb68bf4ddcd0765
+method=file
+server=192.168.56.1\:50613
